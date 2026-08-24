@@ -1,12 +1,12 @@
 {
-  "date": "2026-08-23",
-  "prev_date": "2026-08-22",
+  "date": "2026-08-24",
+  "prev_date": "2026-08-23",
   "types": [
     {
       "type": "all",
       "url": "api/lastest/all.json",
       "category_count": 18,
-      "book_count": 300
+      "book_count": 360
     },
     {
       "type": "古风世情",
@@ -46,7 +46,7 @@
     {
       "type": "现言脑洞",
       "url": "api/lastest/%E7%8E%B0%E8%A8%80%E8%84%91%E6%B4%9E.json",
-      "book_count": 0
+      "book_count": 20
     },
     {
       "type": "宫斗宅斗",
@@ -61,7 +61,7 @@
     {
       "type": "古言脑洞",
       "url": "api/lastest/%E5%8F%A4%E8%A8%80%E8%84%91%E6%B4%9E.json",
-      "book_count": 0
+      "book_count": 20
     },
     {
       "type": "快穿",
@@ -71,7 +71,7 @@
     {
       "type": "青春甜宠",
       "url": "api/lastest/%E9%9D%92%E6%98%A5%E7%94%9C%E5%AE%A0.json",
-      "book_count": 0
+      "book_count": 20
     },
     {
       "type": "星光璀璨",
