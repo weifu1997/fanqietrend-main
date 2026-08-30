@@ -1,12 +1,12 @@
 {
-  "date": "2026-08-29",
-  "prev_date": "2026-08-28",
+  "date": "2026-08-30",
+  "prev_date": "2026-08-29",
   "types": [
     {
       "type": "all",
       "url": "api/lastest/all.json",
       "category_count": 18,
-      "book_count": 360
+      "book_count": 340
     },
     {
       "type": "古风世情",
@@ -16,7 +16,7 @@
     {
       "type": "科幻末世",
       "url": "api/lastest/%E7%A7%91%E5%B9%BB%E6%9C%AB%E4%B8%96.json",
-      "book_count": 20
+      "book_count": 0
     },
     {
       "type": "游戏体育",
